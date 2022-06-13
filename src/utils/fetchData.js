@@ -1,4 +1,4 @@
-export const exercisesOptions = {
+export const exerciseOptions = {
   method: 'GET',
 
   headers: {
